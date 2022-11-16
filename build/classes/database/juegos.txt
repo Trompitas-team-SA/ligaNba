@@ -1,0 +1,400 @@
+***********************
+-0(Bulls, Lakers, 30/09/2022, AvenidaSiempreViva, 110-109, Bulls, 500
+Arbitro(pepe, 24, 10
+***********************
+***********************
+-1(warriors, Nets, 31/09/2022, AvenidaNuncaViva, 112-100, Warriors, 400
+Arbitro(pepe1, 25, 11
+***********************
+***********************
+-2(Knicks, Heats, 01/10/2022, AvenidaExistente, 100-102, Heats, 200
+Arbitro(pepe3, 23, 12
+***********************
+***********************
+-3(equipoRecienCambiado , chucho FC , 04-11-2022 , Pascual , 33 - 22 , equipoRecienCambiado , 999
+Arbitro(Nicolas , 88 , -
+***********************
+***********************
+-4(chucho FC , equipoRecienCambiado , 05-11-2022 , 1 , 123 - 1 , chucho FC , 1
+Arbitro(123 , 123 , -
+***********************
+***********************
+-5(Atlanta Hawks , Brooklyn Nets , 12-11-2022 , qwe , 123 - 123 , Brooklyn Nets , 123
+Arbitro(qwe , 123 , -
+***********************
+***********************
+-6(Atlanta Hawks , Brooklyn Nets , 12-11-2022 , q , 1 - 1 , Brooklyn Nets , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-7(Item 2 , Item 1 , 12-11-2022 , 1 , 1 - 1 , Item 1 , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-8(Atlanta Hawks , Brooklyn Nets , 12-11-2022 , 1 , 1 - 1 , Brooklyn Nets , 1
+Arbitro(Q , 1 , -
+***********************
+***********************
+-9(Boston Celtics , Atlanta Hawks , 12-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(Q , 1 , -
+***********************
+***********************
+-10(Atlanta Hawks , Boston Celtics , 12-11-2022 , Q , 1 - 1 , Boston Celtics , 1
+Arbitro(Q , 1 , -
+***********************
+***********************
+-11(Atlanta Hawks , Boston Celtics , 12-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(Q , 1 , -
+***********************
+***********************
+-12(Boston Celtics , Atlanta Hawks , 12-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-13(Boston Celtics , Atlanta Hawks , 12-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-14(Atlanta Hawks , Boston Celtics , 12-11-2022 , q , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-15(Chicago Bulls , Atlanta Hawks , 12-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-16(Atlanta Hawks , Boston Celtics , 12-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-17(Brooklyn Nets , Atlanta Hawks , 12-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-18(Atlanta Hawks , Boston Celtics , 12-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-19(Boston Celtics , Atlanta Hawks , 12-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-20(Lakers , Atlanta Hawks , 12-11-2022 , q , 1 - 1 , Atlanta Hawks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-21(New York Knicks , Atlanta Hawks , 12-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-22(Atlanta Hawks , Boston Celtics , 12-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-23(Atlanta Hawks , Brooklyn Nets , 12-11-2022 , 1 , 1 - 1 , Brooklyn Nets , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-24(Atlanta Hawks , Boston Celtics , 12-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-25(Atlanta Hawks , Boston Celtics , 12-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-26(Atlanta Hawks , Boston Celtics , 12-11-2022 , 1 , 1 - 11 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-27(Atlanta Hawks , Lakers , 12-11-2022 , 1 , 1 - 1 , Lakers , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-28(Boston Celtics , Lakers , 12-11-2022 , 1 , 1 - 1 , Lakers , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-29(Brooklyn Nets , Lakers , 12-11-2022 , 1 , 1 - 1 , Lakers , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-30(Brooklyn Nets , Lakers , 12-11-2022 , 1 , 1 - 1 , Lakers , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-31(Lakers , New York Knicks , 12-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-32(Boston Celtics , New York Knicks , 12-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-33(Atlanta Hawks , Chicago Bulls , 12-11-2022 , 1 , 1 - 1 , Chicago Bulls , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-34(Boston Celtics , Chicago Bulls , 12-11-2022 , 1 , 1 - 1 , Chicago Bulls , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-35(Atlanta Hawks , Boston Celtics , 13-11-2022 , q , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-36(Boston Celtics , Atlanta Hawks , 13-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-37(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-38(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-39(Atlanta Hawks , Lakers , 13-11-2022 , 1 , 1 - 1 , Lakers , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-40(Atlanta Hawks , Brooklyn Nets , 13-11-2022 , 1 , 1 - 1 , Brooklyn Nets , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-41(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-42(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-43(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-44(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-45(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-46(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-47(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-48(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(w , 1 , -
+***********************
+***********************
+-49(Boston Celtics , Atlanta Hawks , 13-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(w , 1 , -
+***********************
+***********************
+-50(Boston Celtics , Atlanta Hawks , 13-11-2022 , 1 , 1 - 1 , Atlanta Hawks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-51(Atlanta Hawks , Brooklyn Nets , 13-11-2022 , 1 , 1 - 1 , Brooklyn Nets , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-52(Atlanta Hawks , Chicago Bulls , 13-11-2022 , 1 , 1 - 1 , Chicago Bulls , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-53(Atlanta Hawks , Lakers , 13-11-2022 , 1 , 1 - 1 , Lakers , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-54(Atlanta Hawks , New York Knicks , 13-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-55(Atlanta Hawks , New York Knicks , 13-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-56(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-57(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-58(Atlanta Hawks , Lakers , 13-11-2022 , 1 , 1 - 1 , Lakers , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-59(Atlanta Hawks , New York Knicks , 13-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-60(Atlanta Hawks , New York Knicks , 13-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-61(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-62(Atlanta Hawks , New York Knicks , 13-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-63(Atlanta Hawks , Lakers , 13-11-2022 , 1 , 1 - 1 , Lakers , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-64(Atlanta Hawks , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-65(Atlanta Hawks , New York Knicks , 13-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-66(Atlanta Hawks , Lakers , 13-11-2022 , 1 , 1 - 1 , Lakers , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-67(Atlanta Hawks , New York Knicks , 13-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-68(Atlanta Hawks , OWO , 13-11-2022 , 1 , 1 - 1 , OWO , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-69(Lakers , Brooklyn Nets , 13-11-2022 , 1 , 1 - 1 , Brooklyn Nets , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-70(Chicago Bulls , Boston Celtics , 13-11-2022 , 1 , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-71(Atlanta Hawks , Boston Celtics , 13-11-2022 , q , 1 - 1 , Boston Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-72(Atlanta Hawks , Atlanta Hawks , 13-11-2022 , q , 1 - 1 , Atlanta Hawks , 1
+Arbitro(John Collins , 1 , -
+***********************
+***********************
+-73(Atlanta Hawks , Brooklyn Nets , 13-11-2022 , 1 , 1 - 1 , Brooklyn Nets , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-74(Atlanta Hawks , New York Knicks , 13-11-2022 , 1 , 1 - 1 , New York Knicks , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-75(Lakers , Bulls , 13-11-2022 , 1 , 1 - 1 , Bulls , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-76(Atlanta Hawks , Bulls , 13-11-2022 , q , 1 - 1 , Bulls , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-77(Atlanta Hawks , Bulls , 13-11-2022 , q , 1 - 1 , Bulls , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-78(Atlanta Hawks , Bulls , 13-11-2022 , 1 , 1 - 1 , Bulls , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-79(Atlanta Hawks , Celtics , 13-11-2022 , 1 , 1 - 1 , Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-80(Atlanta Hawks , Celtics , 13-11-2022 , 1 , 1 - 1 , Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-81(Atlanta Hawks , Celtics , 13-11-2022 , 1 , 1 - 1 , Celtics , 1
+Arbitro(q , 1 , -
+***********************
+***********************
+-82(Chicago , Celtics , 02-11-2022 , 444 , 33 - 2 , Chicago , 444
+Arbitro(Jau , 44 , -
+***********************
+***********************
+-83(Celtics , pepe , 04-11-2022 , 33 , 99 - 12 , Celtics , 33
+Arbitro(Jotap , 333 , -
+***********************
+***********************
+-84(Chicago , pepe , 15-11-2022 , 123 , 11 - 1111 , pepe , 123
+Arbitro(g , 222 , -
+***********************
+***********************
+-85(Atlanta Hawks , pepe , 15-11-2022 , 123 , 123 - 123 , pepe , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-86(Chicago , pepe , 03-11-2022 , 123 , 123 - 1234 , pepe , 123
+Arbitro(pe , 123 , -
+***********************
+***********************
+-87(Atlanta Hawks , pepe , 15-11-2022 , 123 , 123 - 4444 , pepe , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-88(Atlanta Hawks , pepe , 15-11-2022 , 123 , 123 - 4444 , pepe , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-89(New York Knicks , Bulls , 15-11-2022 , 123 , 2222 - 1 , New York Knicks , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-90(New York Knicks , Chicago , 15-11-2022 , 123 , 12 - 123 , Chicago , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-91(New York Knicks , Bulls , 15-11-2022 , 123 , 123 - 144444 , Bulls , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-92(Lakers , New York Knicks , 15-11-2022 , 123 , 123 - 44444 , New York Knicks , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-93(New York Knicks , Bulls , 04-11-2022 , 123 , 123 - 2 , New York Knicks , 123
+Arbitro(312 , 123 , -
+***********************
+***********************
+-94(New York Knicks , Chicago , 15-11-2022 , 123 , 22 - 1 , New York Knicks , 123
+Arbitro(123 , 24 , -
+***********************
+***********************
+-95(New York Knicks , Celtics , 15-11-2022 , 123 , 123 - 1234 , Celtics , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-96(New York Knicks , Celtics , 15-11-2022 , 123 , 12345 - 1234 , New York Knicks , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-97(Chicago , Celtics , 15-11-2022 , 123 , 123 - 2 , Chicago , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-98(5 , Lakers , 15-11-2022 , 123 , 123 - 3 , 5 , 123
+Arbitro(123 , 123 , -
+***********************
+***********************
+-99(6 , Lakers , 15-11-2022 , 123 , 432 - 13 , 6 , 123
+Arbitro(123 , 123 , -
+***********************

@@ -2,6 +2,19 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/co/edu/usbcali/nba_project/Nba_project.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/interfaces/MenuPartido.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/repositorio/LigaRepositorio.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/logica/PartidosLogica.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/interfaces/TextPrompt.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/repositorio/EquiposRepositorio.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/interfaces/MenuJugadores.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/repositorio/PartidosRepositorio.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/logica/LigaLogica.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/interfaces/MenuInicio.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/logica/EquiposLogica.java</file>
+            <file>file:/Users/mac20/Documents/Jurgen/Universidad/semestre3/Analisis%20y%20diseño/nbaProject/nba_project%202/src/interfaces/MenuEstadisticas.java</file>
+        </group>
     </open-files>
 </project-private>

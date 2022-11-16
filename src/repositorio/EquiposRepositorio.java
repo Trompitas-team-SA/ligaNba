@@ -35,7 +35,7 @@ public class EquiposRepositorio implements iEquiposRepositorio{
     PersonalRep personalRep = new PersonalRep();
     
     String  jugadoresEquipo = "";
-    String  idEquipo        = "";
+    String  idEquipo        = "-1";
     
     
     @Override
@@ -62,6 +62,7 @@ public class EquiposRepositorio implements iEquiposRepositorio{
             }
             
             data+= "\nPersonal(" + dataTrabajador[0] + "," + dataTrabajador[1] + "," + dataTrabajador[2] + "\n***********************";
+                
             
             escribir( data, fichero );
             
@@ -81,6 +82,7 @@ public class EquiposRepositorio implements iEquiposRepositorio{
         
         try {
             bw.write(data ) ;
+            
             bw.close()          ;
             
         } catch (IOException ex) {

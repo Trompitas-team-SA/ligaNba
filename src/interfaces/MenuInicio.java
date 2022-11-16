@@ -8,6 +8,8 @@ import FiveCodMover.FiveCodMoverJFrame;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Toolkit;
+import java.io.File;
+import java.io.IOException;
 import javax.swing.JOptionPane;
 
 /**
@@ -22,19 +24,51 @@ public class MenuInicio extends javax.swing.JFrame {
     public MenuInicio() {
         initComponents();
 
+        crearDirectorio();
+        
         
         try {
             Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
             this.setLocation(dim.width / 2 - this.getSize().width / 2, dim.height / 2 - this.getSize().height / 2);
             this.setBackground(new Color(0, 0, 0, 0));
 
-        logoNBAx2.setVisible(false);
+            logoNBAx2.setVisible(false);
         } catch (Exception e) {
             
             JOptionPane.showMessageDialog(null , "Error en MenuInicio por favor contacte al desarrollador " + e.getMessage() );
         }
     }
 
+    
+    public void crearDirectorio() {
+        File directorio = new File(System.getProperty("user.dir") + "/src/database");
+        
+        //Creando directorio
+        if( !directorio.exists() ){
+            
+            if( directorio.mkdirs()){}
+        }
+        
+        try{
+            File archivoEquipos = new File( System.getProperty("user.dir") + "/src/database/EquiposLiga.txt");
+            if( !archivoEquipos.exists() ){
+                archivoEquipos.createNewFile();
+                archivoEquipos.setWritable( true );
+            }
+
+            File archivoJuegos = new File( System.getProperty("user.dir") + "/src/database/juegos.txt" );
+
+            if( !archivoJuegos.exists() ){
+                archivoJuegos.createNewFile();
+                archivoJuegos.setWritable( true );
+            }
+        } catch( IOException io ){
+            JOptionPane.showMessageDialog( null, "Error creando directorios o leyendolos " + io.getMessage() );
+        }
+        
+        
+        
+    }
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always

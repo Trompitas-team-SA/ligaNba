@@ -5,6 +5,7 @@
 package logica;
 
 import java.util.HashMap;
+import javax.swing.JOptionPane;
 import repositorio.EquiposRepositorio;
 import repositorio.SubEquipos.TeamRep;
 
@@ -24,7 +25,14 @@ public class EquiposLogica implements iEquiposLogica{
 
     @Override
     public void escribirEquipoNuevo( String[] datosEquipo, String[][] datosJugadores, String[] dataTrabajador ) {
-        equipo.escribirEquipoNuevo( datosEquipo, datosJugadores , dataTrabajador );
+        
+        try{
+            equipo.escribirEquipoNuevo( datosEquipo, datosJugadores , dataTrabajador );
+        }
+        catch( Exception e ){
+            JOptionPane.showMessageDialog( null, "Error en escribirEquipoNuevo " + e.getMessage());
+        }
+        
     }
     
     

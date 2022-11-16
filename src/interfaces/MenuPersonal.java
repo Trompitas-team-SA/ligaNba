@@ -10,6 +10,7 @@ import java.awt.Dimension;
 import java.awt.Toolkit;
 import java.util.Timer;
 import java.util.TimerTask;
+import javax.swing.JOptionPane;
 import logica.EquiposLogica;
 
 /**
@@ -480,7 +481,13 @@ public class MenuPersonal extends javax.swing.JFrame {
             String[] infoProvisionalEquipo = {nombreTF.getText(), experienciaTF.getText(), cargoTF.getText(), "0", "0", "0", "0"};
 
             EquiposLogica equipoLog = new EquiposLogica();
+            
+            try{
             equipoLog.escribirEquipoNuevo(infoProvisionalEquipo, infoPlayers, this.infoWorker);
+            }
+            catch( Exception e ){
+                JOptionPane.showMessageDialog( null, "Error en guardar equipo " + e.getMessage() );
+            }
 
             //equipoLog.imprimirDataEquipos();
             nombreTF.setText(null);

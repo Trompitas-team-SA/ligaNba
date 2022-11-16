@@ -27,7 +27,7 @@ public class PartidosRepositorio implements iPartidosRepositorio {
      //Donde almacenaremos la info
     HashMap<String, String[]> partidosJugados = new HashMap<>();
     HashMap<String, String[]> arbitros        = new HashMap<>();
-    String iteradorNPartido = null;
+    String iteradorNPartido = "-1";
 
     
     
@@ -48,9 +48,11 @@ public class PartidosRepositorio implements iPartidosRepositorio {
                 //Validamos si es asterisco o no la linea
                 if( !validarSiEsAsterisco( strng ) ){
                     
-                    //Validar si es linea de arbitro o de juego y a partir de ahi guardaremos la data en hashMaps ( objetos de javascript xd ) 
-                    if( validarSiLineaEsDeJuegoUArbitro( strng ) ) ingresarDataPartido( strng );
-                    else ingresarDataArbitro( strng );
+                    if( !strng.isEmpty() ){
+                        //Validar si es linea de arbitro o de juego y a partir de ahi guardaremos la data en hashMaps ( objetos de javascript xd ) 
+                        if( validarSiLineaEsDeJuegoUArbitro( strng ) ) ingresarDataPartido( strng );
+                        else ingresarDataArbitro( strng );
+                    }
                 }     
             }        
         }  catch( IOException Io){
@@ -152,10 +154,13 @@ public class PartidosRepositorio implements iPartidosRepositorio {
         //Si la linea empieza con * devuelve true
         
         try {
-            if( linea.charAt(0) == '*'){
-            return true;
+            if( !linea.isEmpty()  ){
+                if(  linea.charAt(0) == '*'){
+                return true;
+                }   
+                return false;
             }
-            return false;
+            
         } catch (Exception e) {
              JOptionPane.showMessageDialog( null, "Error en validarSiEsAsterisco en PartidosRepositorio, por favor contacte con desarrollador " + e.getMessage() );
         }
@@ -165,10 +170,12 @@ public class PartidosRepositorio implements iPartidosRepositorio {
     public boolean validarSiLineaEsDeJuegoUArbitro( String linea ){
         
         try {
-            if( linea.charAt(0) == '-'){
-            return true;
+            if( !linea.isEmpty()  ){
+                if( linea.charAt(0) == '-'){
+                return true;
+                }
+                return false;
             }
-            return false;
         } catch (Exception e) {
               JOptionPane.showMessageDialog( null, "Error en validarSiLineaEsDeJuegoUArbitro en PartidosRepositorio, por favor contacte con desarrollador " + e.getMessage() ); 
         }

@@ -7,6 +7,7 @@ package co.edu.usbcali.nba_project;
 import co.edu.usbcali.nba_project.models.LigaNBA;
 import interfaces.MenuInicio;
 import java.io.File;
+import javax.swing.JOptionPane;
 import logica.EquiposLogica;
 import logica.LigaLogica;
 import repositorio.EquiposRepositorio;
@@ -18,7 +19,7 @@ import repositorio.EquiposRepositorio;
 public class Nba_project {
 
     public static void main(String[] args) {
-
+       
         //CrearEquipoInterfaz
         //Conexion crearEquipo = new Conexion();
         //crearEquipo.setVisible(true);

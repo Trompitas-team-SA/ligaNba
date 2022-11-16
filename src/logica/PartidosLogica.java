@@ -58,7 +58,6 @@ public class PartidosLogica implements iPartidosLogica {
             JOptionPane.showMessageDialog( null, "Error en obtenerGanadorEncuentroYMarcador en PartidosLogica, por favor contacte el desarrollador " + e.getMessage() );
         }
         
-        JOptionPane.showMessageDialog( null,  "Ganador " + ganadorYMarcador[0]);
         return ganadorYMarcador;
     }
 }
